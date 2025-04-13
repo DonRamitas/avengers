@@ -24,3 +24,4 @@
 22. Deadshot
 23. Scarecrow
 24. Sans Undertale
+25. Nick Fury
